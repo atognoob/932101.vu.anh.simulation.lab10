@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\bin\Debug\vu.anh.labb10.exe.config
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\bin\Debug\vu.anh.labb10.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\bin\Debug\vu.anh.labb10.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\obj\Debug\vu.anh.labb10.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\obj\Debug\vu.anh.labb10.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\obj\Debug\vu.anh.labb10.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\obj\Debug\vu.anh.labb10.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\obj\Debug\vu.anh.labb10.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\obj\Debug\vu.anh.labb10.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab10\vu.anh.labb10\vu.anh.labb10\obj\Debug\vu.anh.labb10.Form1.resources
